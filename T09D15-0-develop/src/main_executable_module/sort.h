@@ -1,0 +1,6 @@
+#ifndef SRC_MAIN_EXECUTABLE_MODULE_SORT_H_
+
+#define SRC_MAIN_EXECUTABLE_MODULE_SORT_H_
+
+void sort(double *data, int n);
+#endif  // SRC_MAIN_EXECUTABLE_MODULE_SORT_H_
